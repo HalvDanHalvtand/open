@@ -245,7 +245,7 @@ var styles = '.calculator_outer_wrap {' +
 
 +
 
- '#result .click_here' {' +
+ '#result .click_here {' +
 'color: white;' +
 
 '}'
