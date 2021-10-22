@@ -3,7 +3,7 @@ var $=jQuery.noConflict();
 
 console.log('Välkommen till konsolen kära sparare!')
 
-document.querySelectorAll('h2')[5].insertAdjacentHTML("beforeEnd", '<div class="calculator_outer_wrap">'+
+document.querySelectorAll('h2')[5].insertAdjacentHTML("beforeBegin", '<div class="calculator_outer_wrap">'+
 
   '<div class="head">Hur stora affärer brukar du göra?</div>' +
   '<div class="slide_wrap">' +
