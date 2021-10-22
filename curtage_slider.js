@@ -243,6 +243,13 @@ var styles = '.calculator_outer_wrap {' +
     'flex-direction: column;' +
 '}'
 
++
+
+ '#result .click_here' {' +
+'color: white;' +
+
+'}'
+
 
 var styleSheet = document.createElement("style")
 styleSheet.type = "text/css"
